@@ -2,9 +2,10 @@ package test;
 
 import java.io.*;
 import java.net.URI;
-import java.net.URISyntaxException;
 import java.util.*;
 import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+import java.util.regex.Pattern;
 import java.util.regex.Pattern;
 
 import org.apache.http.HttpEntity;
